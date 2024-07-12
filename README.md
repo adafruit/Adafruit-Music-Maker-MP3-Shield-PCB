@@ -21,6 +21,11 @@ For more details, check out the product pages at
 
 -----> https://www.adafruit.com/product/1790
 
+Revision history:
+
+* As of Aug 23, 2023 - we've updated this PCB with Adafruit Pinguin to make a lovely and legible silkscreen. We've also updated the music maker to use the 2x3 SPI header instead of pins 11/12/13  and the terminal blocks now come pre-soldered on.
+* Aug 20, 2014: We updated the analog section to have more filtering, which should improve audio output quality (even more!) There are no wiring or code changes.
+
 ### License
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
